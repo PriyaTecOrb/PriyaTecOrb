@@ -10,7 +10,6 @@
 
 📧 mini@tecorb.co </br>
 
-### My Stats :chart_with_upwards_trend:
 <p align="center">
   <a href="https://github.com/PriyaTecOrb?tab=repositories">
     <img src="https://github-profile-trophy.vercel.app/?username=PriyaTecOrb&title=Commit,Followers,Repositories,Stars,PullRequest,Issues&margin-w=5" alt="developerjai" />
